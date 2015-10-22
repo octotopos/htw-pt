@@ -1,4 +1,4 @@
-# Bemvindos a página do How Things Work
+# Bem-vindos a página do How Things Work
 
 **How Things Works** em português é um site que visa explicar em uma série de artiogos como as cosas funcionam em **Segurança da Informação** em linguagem bem simples. Eventualmente também terei a área de TI sendo 
 
@@ -6,7 +6,7 @@ Um dos motivos que me fez criar essa página foi que o mercado de *SI* está inf
 
 Isso é uma realidade mundial. Tenho experiencia em alguns paises e não só a Portugal ou Brasil.
 
-Duvidas, sugestões, criticas construtivas são bemvindas: octotopos@outlook.com
+Duvidas, sugestões, criticas construtivas são bem-vindas: octotopos@outlook.com
 
 Deixo um video do Youtube, espero que sirva de motivação para todos os aspectos da sua vida: https://www.youtube.com/watch?v=ZXsQAXx_ao0
 
